@@ -1,16 +1,22 @@
-## Hi there 👋
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=javav12&custom_title=Stats&show_icons=true&include_all_commits=true&theme=shadow_red)](https://github-stats-extended.vercel.app/api?username=javav12&custom_title=Stats&show_icons=true&include_all_commits=true&theme=shadow_red)
-<!--
-**javav12/javav12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello 👋, I'm javav12
+### Student
 
-Here are some ideas to get you started:
+Hi! I'm a student from Türkiye, and I do coding in my free time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;
+</p>
+
+## GitHub Stats
+
+## GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=javav12" alt="trophy" />
+
+## GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=javav12&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
+

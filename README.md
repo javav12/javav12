@@ -12,9 +12,13 @@ Hi! I'm a student from Türkiye, and I do coding in my free time.
 
 ## GitHub Stats
 
-## GitHub Trophies
+## general
 
-<img src="https://github-profile-trophy.vercel.app/?username=javav12" alt="trophy" />
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=javav12&custom_title=Stats&show_icons=true&include_all_commits=true&theme=shadow_red)](https://github-stats-extended.vercel.app/api?username=javav12&custom_title=Stats&show_icons=true&include_all_commits=true&theme=shadow_red)
+
+## most used langs
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=javav12&langs_count=4&theme=shadow_red)](https://github-stats-extended.vercel.app/api/top-langs?username=javav12&langs_count=4&theme=shadow_red)
 
 ## GitHub Activity Graph
 
